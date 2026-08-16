@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T12:38:24.926Z",
+  "generatedAt": "2026-08-16T12:12:30.237Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
@@ -12,6 +12,14 @@
   ],
   "count": 30,
   "items": [
+    {
+      "title": "Copilot Notebooks now works with Markdown, plain-text, and rich-text files",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/copilot-notebooks-now-works-with-markdown-plain-text-and-rich/ba-p/4545652",
+      "description": "Add your READMEs, wikis, logs, and transcripts to your notebook Your most useful project knowledge does not always live in a polished document. It might be captured in a README, project wiki, system log, meeting transcript, research export,",
+      "categories": [],
+      "source": "Microsoft 365 Copilot Blog (Tech Community)",
+      "date": "2026-08-13T16:00:00.000Z"
+    },
     {
       "title": "Built for business: How Microsoft 365 Copilot keeps you in the flow of legal work",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/built-for-business-how-microsoft-365-copilot-keeps-you-in-the/ba-p/4546016",
@@ -239,14 +247,6 @@
       "categories": [],
       "source": "Microsoft 365 Copilot Blog (Tech Community)",
       "date": "2026-05-27T16:00:00.000Z"
-    },
-    {
-      "title": "Scaling the reach of finance: what’s next with Finance Agent in Microsoft 365 Copilot",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/scaling-the-reach-of-finance-what-s-next-with-finance-agent-in/ba-p/4522976",
-      "description": "In most organizations, finance is a small but mighty strategic partner to the business, supporting enterprise-wide decisions while managing core processes from record-to-report and source-to-pay to forecast-to-plan. The insights and guidanc",
-      "categories": [],
-      "source": "Microsoft 365 Copilot Blog (Tech Community)",
-      "date": "2026-05-27T12:00:00.000Z"
     },
     {
       "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
