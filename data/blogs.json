@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T16:43:07.470Z",
+  "generatedAt": "2026-09-10T15:17:49.758Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
@@ -19,6 +19,18 @@
       "categories": [],
       "source": "Microsoft 365 Copilot Blog (Tech Community)",
       "date": "2026-09-04T20:28:50.000Z"
+    },
+    {
+      "title": "PPCC 2026: Bringing AI and your business processes together",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/",
+      "description": "Every enterprise runs on business processes, but it's the people that provide judgment, manage exceptions, and often connect systems that were never designed to work together. The post PPCC 2026: Bringing AI and your business processes toge",
+      "categories": [
+        "Agents",
+        "AI",
+        "Work IQ"
+      ],
+      "source": "Microsoft 365 Blog",
+      "date": "2026-09-03T12:00:00.000Z"
     },
     {
       "title": "What’s New in Microsoft Copilot | August 2026",
@@ -269,19 +281,6 @@
       ],
       "source": "Microsoft 365 Blog",
       "date": "2026-05-11T17:25:12.000Z"
-    },
-    {
-      "title": "Copilot Cowork: From conversation to action across skills, integrations, and devices",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/05/copilot-cowork-from-conversation-to-action-across-skills-integrations-and-devices/",
-      "description": "Today, we’re announcing additional capabilities in Cowork to expand on what it can make possible for you. The post Copilot Cowork: From conversation to action across skills, integrations, and devices appeared first on Microsoft 365 Blog .",
-      "categories": [
-        "AI",
-        "Copilot Cowork",
-        "Copilot for Work",
-        "Work IQ"
-      ],
-      "source": "Microsoft 365 Blog",
-      "date": "2026-05-05T10:00:00.000Z"
     }
   ]
 }
