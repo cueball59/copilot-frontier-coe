@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T15:48:16.825Z",
+  "generatedAt": "2026-09-25T15:59:23.708Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
@@ -12,6 +12,14 @@
   ],
   "count": 10,
   "items": [
+    {
+      "title": "Building the system for AI at work",
+      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/",
+      "description": "There's no shortage of sound and fury in AI right now. The post Building the system for AI at work appeared first on Microsoft 365 Blog .",
+      "categories": [],
+      "source": "Microsoft 365 Blog",
+      "date": "2026-09-23T12:00:00.000Z"
+    },
     {
       "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead",
       "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
@@ -107,16 +115,6 @@
       ],
       "source": "Microsoft 365 Blog",
       "date": "2026-06-02T12:00:00.000Z"
-    },
-    {
-      "title": "Introducing Microsoft 365 Business with Copilot: The new standard for small business",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/05/28/introducing-microsoft-365-business-with-copilot-the-new-standard-for-small-business/",
-      "description": "On July 1, we're introducing new Microsoft 365 SKUs with Copilot built-in, designed to fit into the way small businesses already work. The post Introducing Microsoft 365 Business with Copilot: The new standard for small business appeared fi",
-      "categories": [
-        "AI"
-      ],
-      "source": "Microsoft 365 Blog",
-      "date": "2026-05-28T12:00:00.000Z"
     }
   ]
 }
