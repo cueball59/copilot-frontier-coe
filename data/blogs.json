@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:48:49.908Z",
+  "generatedAt": "2026-10-01T14:07:30.023Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
@@ -44,6 +44,14 @@
   ],
   "count": 50,
   "items": [
+    {
+      "title": "Change Management Best Practices to Drive Value with Agent Builder",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/change-management-best-practices-to-drive-value-with-agent/ba-p/4559753",
+      "description": "Most organizations start in the same place: licenses are provisioned, a handful of enthusiasts begin experimenting, and excitement around AI is high. Yet for most employees, building and using agents remains largely unexplored. The technolo",
+      "categories": [],
+      "source": "Microsoft Copilot Blog (Tech Community)",
+      "date": "2026-09-28T15:00:00.000Z"
+    },
     {
       "title": "Measuring the value of Cowork: From AI interactions to completed work",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/measuring-the-value-of-cowork-from-ai-interactions-to-completed/ba-p/4554464",
@@ -449,14 +457,6 @@
       "categories": [],
       "source": "Microsoft SharePoint Blog (Tech Community)",
       "date": "2026-07-09T17:56:32.000Z"
-    },
-    {
-      "title": "Co-create documents with Copilot in Word for iPad",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-365-insider-blog/co-create-documents-with-copilot-in-word-for-ipad/ba-p/4534191",
-      "description": "We’re excited to bring a feature many of you already use on desktop, web, and mobile to Microsoft Word for iPad: the ability to collaborate with Microsoft 365 Copilot directly in your document. What ’ s new You can now work with Copilot as ",
-      "categories": [],
-      "source": "Microsoft 365 Insider Blog (Tech Community)",
-      "date": "2026-07-07T16:21:13.000Z"
     }
   ]
 }
