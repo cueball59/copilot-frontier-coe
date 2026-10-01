@@ -2,7 +2,12 @@ name: Update Feeds (Roadmap + Blogs)
 
 on:
   schedule:
-    - cron: "0 12 */3 * *"   # every 3 days at 12:00 UTC
+    # Daily at 3:05 PM Eastern. GitHub cron runs in UTC with no time-zone support,
+    # so both candidates are scheduled and the gate step below keeps only the one
+    # that is 3 PM in New York: 19:05 UTC during EDT, 20:05 UTC during EST.
+    # Odd minute on purpose: GitHub throttles/drops :00 cron jobs.
+    - cron: "5 19 * * *"
+    - cron: "5 20 * * *"
   workflow_dispatch:          # allow manual runs
 
 permissions:
@@ -12,19 +17,37 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - name: Gate to 3 PM Eastern
+        id: gate
+        env:
+          TRIGGER: ${{ github.event.schedule }}
+        run: |
+          if [[ "${{ github.event_name }}" != "schedule" ]]; then echo "run=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          offset="$(TZ=America/New_York date +%z)"
+          if { [[ "$offset" == "-0400" && "$TRIGGER" == "5 19 * * *" ]] || [[ "$offset" == "-0500" && "$TRIGGER" == "5 20 * * *" ]]; }; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"; echo "Skipping: '$TRIGGER' is not 3 PM Eastern today (offset $offset)."
+          fi
+
       - uses: actions/checkout@v6
+        if: steps.gate.outputs.run == 'true'
 
       - uses: actions/setup-node@v6
+        if: steps.gate.outputs.run == 'true'
         with:
           node-version: "24"
 
       - name: Refresh roadmap data
+        if: steps.gate.outputs.run == 'true'
         run: node scripts/update-roadmap.mjs
 
       - name: Refresh blog data
+        if: steps.gate.outputs.run == 'true'
         run: node scripts/update-blogs.mjs
 
       - name: Commit changes if any
+        if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -32,7 +55,7 @@ jobs:
             echo "No feed changes."; exit 0
           fi
           git add data/roadmap.json data/blogs.json
-          git commit -m "chore: 3-day Copilot roadmap + blog refresh"
+          git commit -m "chore: daily Copilot roadmap + blog refresh"
           for i in 1 2 3 4 5; do
             git pull --rebase --autostash origin main && git push && exit 0
             echo "Push attempt $i failed; retrying..."; sleep 7
