@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T14:07:30.023Z",
+  "generatedAt": "2026-10-01T23:05:29.144Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
@@ -45,6 +45,38 @@
   "count": 50,
   "items": [
     {
+      "title": "Available today: OpenAI's GPT-6.1 Sol and Claude Sonnet 5.5 in Microsoft Copilot",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-6-1-sol-and-claude-sonnet-5-5-in/ba-p/4560801",
+      "description": "Earlier this month, Anthropic's Claude Opus 5.5 and OpenAI's GPT-6 Sol joined model choice in Microsoft Copilot . Now, we're continuing to expand that choice by bringing GPT-6.1 Sol and Claude Sonnet 5.5 to Microsoft Copilot, giving users m",
+      "categories": [],
+      "source": "Microsoft Copilot Blog (Tech Community)",
+      "date": "2026-09-30T23:28:22.000Z"
+    },
+    {
+      "title": "Introducing the plugin registry - one place to discover and govern plugins for Microsoft Copilot",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/introducing-the-plugin-registry-one-place-to-discover-and-govern/ba-p/4559682",
+      "description": "On September 25, we introduced the new Microsoft Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI across work. Agents in Copilot already help you work with yo",
+      "categories": [],
+      "source": "Microsoft Copilot Blog (Tech Community)",
+      "date": "2026-09-30T19:11:46.000Z"
+    },
+    {
+      "title": "Help your customers get answers and support with Teams Phone Agent",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/help-your-customers-get-answers-and-support-with-teams-phone/ba-p/4560840",
+      "description": "Your customers are your number one priority, and you want to be there whenever they call. Questions and appointment changes can arrive during busy call volume periods or after hours. Customers expect fast and convenient service whenever the",
+      "categories": [],
+      "source": "Microsoft Teams Blog (Tech Community)",
+      "date": "2026-09-30T15:38:55.000Z"
+    },
+    {
+      "title": "What’s New in Microsoft Copilot | September 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/what-s-new-in-microsoft-copilot-september-2026/ba-p/4559107",
+      "description": "Welcome to the September 2026 edition of What's New in Microsoft Copilot! Every month, we highlight new features and enhancements to keep Microsoft 365 customers up to date with Copilot features that help your users be more productive and e",
+      "categories": [],
+      "source": "Microsoft Copilot Blog (Tech Community)",
+      "date": "2026-09-30T15:30:00.000Z"
+    },
+    {
       "title": "Change Management Best Practices to Drive Value with Agent Builder",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/change-management-best-practices-to-drive-value-with-agent/ba-p/4559753",
       "description": "Most organizations start in the same place: licenses are provisioned, a handful of enthusiasts begin experimenting, and excitement around AI is high. Yet for most employees, building and using agents remains largely unexplored. The technolo",
@@ -69,19 +101,19 @@
       "date": "2026-09-25T13:16:51.000Z"
     },
     {
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "description": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. The post Introducing the new Copilot with Home, Code and Autopilo",
-      "categories": [],
-      "source": "Microsoft 365 Blog",
-      "date": "2026-09-25T12:00:00.000Z"
-    },
-    {
       "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
       "description": "Today we announced the new Copilot app , bringing together how people assist, delegate, build, and automate work in one experience powered by Work IQ . Because Work IQ grounds these experiences in your work and organizational context, the q",
       "categories": [],
       "source": "Microsoft SharePoint Blog (Tech Community)",
+      "date": "2026-09-25T12:00:00.000Z"
+    },
+    {
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "description": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. The post Introducing the new Copilot with Home, Code and Autopilo",
+      "categories": [],
+      "source": "Microsoft 365 Blog",
       "date": "2026-09-25T12:00:00.000Z"
     },
     {
@@ -425,38 +457,6 @@
       "categories": [],
       "source": "Microsoft SharePoint Blog (Tech Community)",
       "date": "2026-07-21T15:56:41.000Z"
-    },
-    {
-      "title": "Join Us Live: Understanding Copilot Cowork and Managing Copilot Credits",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/join-us-live-understanding-copilot-cowork-and-managing-copilot/ba-p/4537935",
-      "description": "The way we work with AI is evolving rapidly, and so is the way organizations manage and scale those experiences. If you're exploring Copilot Cowork , navigating Copilot Credits , or looking for guidance on consumption-based AI experiences, ",
-      "categories": [],
-      "source": "Microsoft Copilot Blog (Tech Community)",
-      "date": "2026-07-16T16:36:52.000Z"
-    },
-    {
-      "title": "What’s New in Copilot in SharePoint: July 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-july-2026/ba-p/4535420",
-      "description": "Copilot in SharePoint helps you do more with your content — ask questions, run workflows, and create sites, pages, interactive reports, and Office files using natural language. June was a big month: starting June 16 Copilot in SharePoint be",
-      "categories": [],
-      "source": "Microsoft SharePoint Blog (Tech Community)",
-      "date": "2026-07-16T16:05:23.000Z"
-    },
-    {
-      "title": "Available today: OpenAI’s GPT-5.6 in Microsoft 365 Copilot",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-5-6-in-microsoft-365-copilot/ba-p/4533152",
-      "description": "Starting today, OpenAI's GPT-5.6 family of models is available in Microsoft 365 Copilot—in Word, Excel, PowerPoint, Chat and Cowork. OpenAI and Microsoft partnered together to optimize GPT-5.6 for knowledge work across Microsoft 365 apps an",
-      "categories": [],
-      "source": "Microsoft Copilot Blog (Tech Community)",
-      "date": "2026-07-10T15:04:24.000Z"
-    },
-    {
-      "title": "SharePoint Showcase: How Microsoft uses Copilot in SharePoint, and how you can get started",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-how-microsoft-uses-copilot-in-sharepoint-and/ba-p/4533156",
-      "description": "For this month's SharePoint showcase, we're zooming in on AI skills in SharePoint and real Microsoft use cases for Copilot in SharePoint. We're also introducing a new \"Product Drops\" standing section to recap all the new GA functionality ac",
-      "categories": [],
-      "source": "Microsoft SharePoint Blog (Tech Community)",
-      "date": "2026-07-09T17:56:32.000Z"
     }
   ]
 }
