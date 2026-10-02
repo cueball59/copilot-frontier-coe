@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T23:05:29.144Z",
+  "generatedAt": "2026-10-02T22:56:05.658Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
@@ -45,6 +45,14 @@
   "count": 50,
   "items": [
     {
+      "title": "What’s new in Copilot in SharePoint: October 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-october-2026/ba-p/4535423",
+      "description": "Your monthly roundup of what's new in Copilot in SharePoint. Copilot in SharePoint general availability rollout started on September 30 — read the announcement blog for the full story. But general availability isn't the finish line, and thi",
+      "categories": [],
+      "source": "Microsoft SharePoint Blog (Tech Community)",
+      "date": "2026-10-01T17:44:11.000Z"
+    },
+    {
       "title": "Available today: OpenAI's GPT-6.1 Sol and Claude Sonnet 5.5 in Microsoft Copilot",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-6-1-sol-and-claude-sonnet-5-5-in/ba-p/4560801",
       "description": "Earlier this month, Anthropic's Claude Opus 5.5 and OpenAI's GPT-6 Sol joined model choice in Microsoft Copilot . Now, we're continuing to expand that choice by bringing GPT-6.1 Sol and Claude Sonnet 5.5 to Microsoft Copilot, giving users m",
@@ -63,7 +71,7 @@
     {
       "title": "Help your customers get answers and support with Teams Phone Agent",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/help-your-customers-get-answers-and-support-with-teams-phone/ba-p/4560840",
-      "description": "Your customers are your number one priority, and you want to be there whenever they call. Questions and appointment changes can arrive during busy call volume periods or after hours. Customers expect fast and convenient service whenever the",
+      "description": "Your customers are your number one priority, and you want to be there whenever they call. But customer needs don’t follow a schedule. Questions and appointment changes can come during your busiest periods or after hours, and customers still",
       "categories": [],
       "source": "Microsoft Teams Blog (Tech Community)",
       "date": "2026-09-30T15:38:55.000Z"
@@ -101,19 +109,19 @@
       "date": "2026-09-25T13:16:51.000Z"
     },
     {
-      "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
-      "description": "Today we announced the new Copilot app , bringing together how people assist, delegate, build, and automate work in one experience powered by Work IQ . Because Work IQ grounds these experiences in your work and organizational context, the q",
-      "categories": [],
-      "source": "Microsoft SharePoint Blog (Tech Community)",
-      "date": "2026-09-25T12:00:00.000Z"
-    },
-    {
       "title": "Introducing the new Copilot with Home, Code and Autopilot",
       "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
       "description": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. The post Introducing the new Copilot with Home, Code and Autopilo",
       "categories": [],
       "source": "Microsoft 365 Blog",
+      "date": "2026-09-25T12:00:00.000Z"
+    },
+    {
+      "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
+      "description": "Today we announced the new Copilot app , bringing together how people assist, delegate, build, and automate work in one experience powered by Work IQ . Because Work IQ grounds these experiences in your work and organizational context, the q",
+      "categories": [],
+      "source": "Microsoft SharePoint Blog (Tech Community)",
       "date": "2026-09-25T12:00:00.000Z"
     },
     {
@@ -449,14 +457,6 @@
       "categories": [],
       "source": "Microsoft Copilot Blog (Tech Community)",
       "date": "2026-07-23T18:57:12.000Z"
-    },
-    {
-      "title": "Beyond Benchmarks: The Lifecycle of Measuring Agentic Quality in AI Content Management",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/beyond-benchmarks-the-lifecycle-of-measuring-agentic-quality-in/ba-p/4538319",
-      "description": "By Sujay Kumar Jauhar, Spriha Chandrayan, Natasha Gaitonde, Zhen Lei, Reed Pankhurst, Anush Sankaran, Amrit Shandilya, Ryen W. White Organizations put their most important content in OneDrive and SharePoint, trusting us to deliver AI experi",
-      "categories": [],
-      "source": "Microsoft SharePoint Blog (Tech Community)",
-      "date": "2026-07-21T15:56:41.000Z"
     }
   ]
 }
