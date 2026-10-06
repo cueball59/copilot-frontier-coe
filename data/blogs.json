@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T22:18:06.417Z",
+  "generatedAt": "2026-10-06T00:44:55.893Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
@@ -109,19 +109,19 @@
       "date": "2026-09-25T13:16:51.000Z"
     },
     {
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "description": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. The post Introducing the new Copilot with Home, Code and Autopilo",
-      "categories": [],
-      "source": "Microsoft 365 Blog",
-      "date": "2026-09-25T12:00:00.000Z"
-    },
-    {
       "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
       "description": "Today we announced the new Copilot app , bringing together how people assist, delegate, build, and automate work in one experience powered by Work IQ . Because Work IQ grounds these experiences in your work and organizational context, the q",
       "categories": [],
       "source": "Microsoft SharePoint Blog (Tech Community)",
+      "date": "2026-09-25T12:00:00.000Z"
+    },
+    {
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "description": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. The post Introducing the new Copilot with Home, Code and Autopilo",
+      "categories": [],
+      "source": "Microsoft 365 Blog",
       "date": "2026-09-25T12:00:00.000Z"
     },
     {
