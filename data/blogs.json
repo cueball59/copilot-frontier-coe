@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T23:43:20.525Z",
+  "generatedAt": "2026-10-09T23:10:12.160Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
@@ -44,6 +44,14 @@
   ],
   "count": 50,
   "items": [
+    {
+      "title": "Are bigger agents better? How to design agents that scale",
+      "link": "https://techcommunity.microsoft.com/t5/copilot-studio-blog/are-bigger-agents-better-how-to-design-agents-that-scale/ba-p/4559073",
+      "description": "There is a moment every maker hits. An agent works, so you add another tool. Then another knowledge source. Then instructions for an exception that appeared last week or an entirely new use case you want your agent to be able to tackle. Eac",
+      "categories": [],
+      "source": "Copilot Studio Blog (Tech Community)",
+      "date": "2026-10-08T18:18:59.000Z"
+    },
     {
       "title": "What’s new in Copilot in SharePoint: October 2026",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-october-2026/ba-p/4535423",
@@ -449,14 +457,6 @@
       "categories": [],
       "source": "Microsoft Teams Blog (Tech Community)",
       "date": "2026-07-24T16:24:35.000Z"
-    },
-    {
-      "title": "1 million documents to 300+agents: Building an enterprise-scale Microsoft 365 Copilot connector",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/1-million-documents-to-300-agents-building-an-enterprise-scale/ba-p/4540155",
-      "description": "1 million documents. 100,000+ monthly users. 300+ Copilot Studio agents. Here's what we learned building the Microsoft 365 Copilot connector behind them. Most enterprise knowledge lives in portals and repositories that people trust but rare",
-      "categories": [],
-      "source": "Microsoft Copilot Blog (Tech Community)",
-      "date": "2026-07-23T18:57:12.000Z"
     }
   ]
 }
