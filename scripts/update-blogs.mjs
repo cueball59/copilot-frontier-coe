@@ -52,6 +52,11 @@ const FEEDS = [
     dedicated: true,
   },
   {
+    url: "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/feed/",
+    source: "Microsoft Copilot Studio Blog",
+    dedicated: true,
+  },
+  {
     url: TC("SPBlog"),
     source: "Microsoft SharePoint Blog (Tech Community)",
     dedicated: false,
@@ -77,6 +82,22 @@ const FEEDS = [
     url: TC("onedriveblog"),
     source: "Microsoft OneDrive Blog (Tech Community)",
     dedicated: false,
+  },
+];
+
+// Curated posts that the public RSS feeds may not surface yet (the feeds can lag
+// real publishing by days). These are merged into the pool and de-duplicated by
+// normalized title, so when a feed later includes the same post the duplicate is
+// dropped automatically.
+const PINNED = [
+  {
+    title: "Delegate shared business processes to agents that are more persistent and proactive with Microsoft Copilot Studio",
+    link: "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/delegate-shared-business-processes-to-agents-that-are-more-persistent-and-proactive-with-microsoft-copilot-studio/",
+    description:
+      "Build persistent agents in Microsoft Copilot Studio with agent accounts, memory, and triggers to run recurring business processes.",
+    date: "2026-10-15T15:05:00.000Z",
+    source: "Microsoft Copilot Studio Blog",
+    categories: ["Copilot Studio", "Agents"],
   },
 ];
 
@@ -196,9 +217,9 @@ async function main() {
     return;
   }
 
-  // Additive pool: freshly fetched + everything previously published. Fetched
-  // items come first so they win de-duplication with fresher fields.
-  let items = [...fetched, ...priorItems];
+  // Additive pool: pinned + freshly fetched + everything previously published.
+  // Pinned/fetched items come first so they win de-duplication with fresher fields.
+  let items = [...PINNED, ...fetched, ...priorItems];
 
   // de-dup by normalized title
   const seen = new Set();
@@ -218,6 +239,7 @@ async function main() {
     const candidates = [];
     const urlDate = dateFromUrl(it.link);
     if (urlDate) candidates.push(urlDate);              // authoritative when present
+    if (it.date) candidates.push(it.date);              // curated/pinned date
     const feedDate = it.pubDate ? new Date(it.pubDate).toISOString() : null;
     if (feedDate) candidates.push(feedDate);
     const priorDate = priorByLink.get(it.link);
