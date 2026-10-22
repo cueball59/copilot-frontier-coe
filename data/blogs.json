@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T22:16:16.893Z",
+  "generatedAt": "2026-10-22T22:14:47.898Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
@@ -48,6 +48,14 @@
   ],
   "count": 50,
   "items": [
+    {
+      "title": "Publish rich and interactive content with HTML pages in SharePoint",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/publish-rich-and-interactive-content-with-html-pages-in/ba-p/4565918",
+      "description": "We're excited to share that you can now create HTML pages in SharePoint. Describe what you want and let Copilot build it for you, or upload an HTML file you've already crafted . HTML pages live in the Site Pages library, right alongside you",
+      "categories": [],
+      "source": "Microsoft SharePoint Blog (Tech Community)",
+      "date": "2026-10-22T10:03:12.000Z"
+    },
     {
       "title": "Copilot Code: Make the power of coding accessible to everyone",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/copilot-code-make-the-power-of-coding-accessible-to-everyone/ba-p/4562358",
@@ -220,14 +228,6 @@
       "date": "2026-09-25T13:16:51.000Z"
     },
     {
-      "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
-      "description": "Today we announced the new Copilot app , bringing together how people assist, delegate, build, and automate work in one experience powered by Work IQ . Because Work IQ grounds these experiences in your work and organizational context, the q",
-      "categories": [],
-      "source": "Microsoft SharePoint Blog (Tech Community)",
-      "date": "2026-09-25T12:00:00.000Z"
-    },
-    {
       "title": "Introducing the new Copilot with Home, Code and Autopilot",
       "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
       "description": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. The post Introducing the new Copilot with Home, Code and Autopilo",
@@ -241,6 +241,14 @@
       "description": "Meet Microsoft Copilot Managed Runtime, an enterprise platform that helps teams build and run apps with security, governance, and IT control. The post Build where you want, run with confidence: Now Microsoft hosts and manages the code creat",
       "categories": [],
       "source": "Microsoft Copilot Studio Blog",
+      "date": "2026-09-25T12:00:00.000Z"
+    },
+    {
+      "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
+      "description": "Today we announced the new Copilot app , bringing together how people assist, delegate, build, and automate work in one experience powered by Work IQ . Because Work IQ grounds these experiences in your work and organizational context, the q",
+      "categories": [],
+      "source": "Microsoft SharePoint Blog (Tech Community)",
       "date": "2026-09-25T12:00:00.000Z"
     },
     {
@@ -454,14 +462,6 @@
       "categories": [],
       "source": "Microsoft Power Platform Blog (Copilot Studio)",
       "date": "2026-08-13T12:00:00.000Z"
-    },
-    {
-      "title": "Built for business: How Microsoft 365 Copilot keeps you in the flow of legal work",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/built-for-business-how-microsoft-365-copilot-keeps-you-in-the/ba-p/4546016",
-      "description": "The tools that run a business rarely live in one place. For a small business owner, that means stepping out of the document you're writing to search for an attorney, digging through a folder for the LLC paperwork you half-remember filing, o",
-      "categories": [],
-      "source": "Microsoft Copilot Blog (Tech Community)",
-      "date": "2026-08-12T16:00:00.000Z"
     }
   ]
 }
