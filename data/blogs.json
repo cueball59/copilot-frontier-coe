@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T21:40:05.476Z",
+  "generatedAt": "2026-10-26T23:05:30.529Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
@@ -48,6 +48,14 @@
   ],
   "count": 50,
   "items": [
+    {
+      "title": "Introducing the Power Platform Admin Plugin in Cowork: Agentic Governance with Natural Language",
+      "link": "https://techcommunity.microsoft.com/t5/copilot-studio-blog/introducing-the-power-platform-admin-plugin-in-cowork-agentic/ba-p/4567557",
+      "description": "Ask a Copilot Studio or Power Platform admin a simple question: Which business-critical assets are owned by people who have left the organization? Answering it often means checking multiple admin views, the user directory, connector lists, ",
+      "categories": [],
+      "source": "Copilot Studio Blog (Tech Community)",
+      "date": "2026-10-26T00:42:49.000Z"
+    },
     {
       "title": "Turn GitHub notifications into code with GitHub Copilot in Microsoft Teams",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-github-notifications-into-code-with-github-copilot-in/ba-p/4566408",
@@ -454,14 +462,6 @@
       "categories": [],
       "source": "Microsoft SharePoint Blog (Tech Community)",
       "date": "2026-08-27T16:28:53.000Z"
-    },
-    {
-      "title": "What's New in Excel (August 2026)",
-      "link": "https://techcommunity.microsoft.com/t5/excel-blog/what-s-new-in-excel-august-2026/ba-p/4527283",
-      "description": "Welcome to the August 2026 update. New this month for Copilot, chat history, chart/PivotTable skills, Python skill, as well as change history. Excel for Windows, Mac, and web: - Copilot in Excel: change history skill #FIA - Copilot in Excel",
-      "categories": [],
-      "source": "Excel Blog (Tech Community)",
-      "date": "2026-08-26T20:52:44.000Z"
     }
   ]
 }
