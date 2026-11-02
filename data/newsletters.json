@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-26T18:49:11.831Z",
+  "generatedAt": "2026-11-02T21:52:19.079Z",
   "count": 24,
   "editions": [
+    {
+      "id": "2026-W45",
+      "year": 2026,
+      "week": 45,
+      "dateLabel": "November 5, 2026",
+      "prompt": {
+        "title": "Rewrite for clarity",
+        "text": "Rewrite this so a non-expert can understand it. Remove jargon, shorten sentences, and lead with the most important point. Keep the meaning exact."
+      },
+      "tip": {
+        "app": "OneNote",
+        "tip": "Ask Copilot to 'summarize my notes from this section', 'turn these notes into a to-do list', or 'draft a plan based on this brainstorm' to convert messy notes into structured next steps."
+      },
+      "capability": {
+        "name": "Finance Agent",
+        "text": "Gives finance teams and stakeholders a centralized, role-aware view of financial performance with up-to-date, permission-aware insights.",
+        "link": "https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features"
+      },
+      "roadmap": {
+        "title": "Power Automate: AI-assisted UI Automation repair",
+        "status": "In development",
+        "description": "A new agentic debug run feature will be available in the flow designer. The UI automation repair interface launches while the flow is running, validating each selector used in the flow. It then proposes a new selector in case an existing one does not work as expected, after the user captures the respective element for reference.",
+        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=577869"
+      },
+      "reads": [
+        {
+          "title": "What’s New in Microsoft Copilot | October 2026",
+          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/what-s-new-in-microsoft-copilot-october-2026/ba-p/4568528"
+        },
+        {
+          "title": "Built by makers: Five years of Power Platform Community Conference",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/"
+        }
+      ],
+      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (November 5, 2026)\n\nPROMPT OF THE WEEK — Rewrite for clarity\n\"Rewrite this so a non-expert can understand it. Remove jargon, shorten sentences, and lead with the most important point. Keep the meaning exact.\"\n\nCOPILOT IN ONENOTE\nAsk Copilot to 'summarize my notes from this section', 'turn these notes into a to-do list', or 'draft a plan based on this brainstorm' to convert messy notes into structured next steps.\n\nFRONTIER SPOTLIGHT — Finance Agent\nGives finance teams and stakeholders a centralized, role-aware view of financial performance with up-to-date, permission-aware insights.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Power Automate: AI-assisted UI Automation repair (In development)\nA new agentic debug run feature will be available in the flow designer. The UI automation repair interface launches while the flow is running, validating each selector used in the flow. It then proposes a new selector in case an existing one does not work as expected, after the user captures the respective element for reference.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=577869\n\nWORTH A READ\n- What’s New in Microsoft Copilot | October 2026 — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/what-s-new-in-microsoft-copilot-october-2026/ba-p/4568528\n- Built by makers: Five years of Power Platform Community Conference — https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
+    },
     {
       "id": "2026-W44",
       "year": 2026,
@@ -21,22 +57,22 @@
         "link": "https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-program"
       },
       "roadmap": {
-        "title": "Power Apps: Expand model access and Maker Studio availability for generative pages via GitHub",
+        "title": "Copilot Studio: Computer Use for web browsing on Microsoft Copilot Harness",
         "status": "In development",
-        "description": "Connect your GitHub account to access additional model options for the built-in gen page coding agent directly in the generative page designer in Maker Studio. Makers can use the agent to create and refine generative pages without leaving the Power Apps authoring experience. This integration also brings Maker Studio generative page authoring to regions without dedicated Power Apps GPU capacity. Model availability through GitHub may evolve over time, and requests made through this connection consume the maker’s GitHub credits. Availability Field Value Release Channel Weekly Version 2611.1 Applies to Model-driven apps Feature Scope Admins or makers",
-        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=576285"
+        "description": "Enable Microsoft Copilot Studio agents to browse and interact with websites as a native capability powered by the Microsoft Copilot harness. Using natural-language instructions, agents can navigate web pages, extract information, and download files. Agents can then use that information and those files alongside other tools to complete end-to-end workflows, extending their reach beyond configured knowledge sources and API-based integrations.",
+        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=576272"
       },
       "reads": [
         {
-          "title": "Turn GitHub notifications into code with GitHub Copilot in Microsoft Teams",
-          "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-github-notifications-into-code-with-github-copilot-in/ba-p/4566408"
+          "title": "What’s New in Microsoft Copilot | October 2026",
+          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/what-s-new-in-microsoft-copilot-october-2026/ba-p/4568528"
         },
         {
-          "title": "From Pilots to Programs: A Structured Approach to Scaling AI and Agents for Real Business Value",
-          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/from-pilots-to-programs-a-structured-approach-to-scaling-ai-and/ba-p/4566921"
+          "title": "Built by makers: Five years of Power Platform Community Conference",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/"
         }
       ],
-      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (October 29, 2026)\n\nPROMPT OF THE WEEK — Data to narrative\n\"Look at this spreadsheet and tell me the three most important trends. Explain what's driving each one and suggest a chart that would communicate it best to leadership.\"\n\nCOPILOT IN LOOP / PAGES\nPromote a great Copilot answer into a Copilot Page, then @mention teammates to co-edit. It's the fastest way to turn an AI draft into shared, living team content.\n\nFRONTIER SPOTLIGHT — Researcher\nA reasoning agent that runs deeper, multi-step research across your work and the web to produce thorough, cited answers for complex questions.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-program\n\nON THE ROADMAP — Power Apps: Expand model access and Maker Studio availability for generative pages via GitHub (In development)\nConnect your GitHub account to access additional model options for the built-in gen page coding agent directly in the generative page designer in Maker Studio. Makers can use the agent to create and refine generative pages without leaving the Power Apps authoring experience. This integration also brings Maker Studio generative page authoring to regions without dedicated Power Apps GPU capacity. Model availability through GitHub may evolve over time, and requests made through this connection consume the maker’s GitHub credits. Availability Field Value Release Channel Weekly Version 2611.1 Applies to Model-driven apps Feature Scope Admins or makers\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=576285\n\nWORTH A READ\n- Turn GitHub notifications into code with GitHub Copilot in Microsoft Teams — https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-github-notifications-into-code-with-github-copilot-in/ba-p/4566408\n- From Pilots to Programs: A Structured Approach to Scaling AI and Agents for Real Business Value — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/from-pilots-to-programs-a-structured-approach-to-scaling-ai-and/ba-p/4566921\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
+      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (October 29, 2026)\n\nPROMPT OF THE WEEK — Data to narrative\n\"Look at this spreadsheet and tell me the three most important trends. Explain what's driving each one and suggest a chart that would communicate it best to leadership.\"\n\nCOPILOT IN LOOP / PAGES\nPromote a great Copilot answer into a Copilot Page, then @mention teammates to co-edit. It's the fastest way to turn an AI draft into shared, living team content.\n\nFRONTIER SPOTLIGHT — Researcher\nA reasoning agent that runs deeper, multi-step research across your work and the web to produce thorough, cited answers for complex questions.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-program\n\nON THE ROADMAP — Copilot Studio: Computer Use for web browsing on Microsoft Copilot Harness (In development)\nEnable Microsoft Copilot Studio agents to browse and interact with websites as a native capability powered by the Microsoft Copilot harness. Using natural-language instructions, agents can navigate web pages, extract information, and download files. Agents can then use that information and those files alongside other tools to complete end-to-end workflows, extending their reach beyond configured knowledge sources and API-based integrations.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=576272\n\nWORTH A READ\n- What’s New in Microsoft Copilot | October 2026 — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/what-s-new-in-microsoft-copilot-october-2026/ba-p/4568528\n- Built by makers: Five years of Power Platform Community Conference — https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
     },
     {
       "id": "2026-W43",
@@ -57,22 +93,22 @@
         "link": "https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features"
       },
       "roadmap": {
-        "title": "Microsoft Teams: Facilitator in GCC",
+        "title": "Microsoft 365 Admin Center: Usage reports - Message consumption for Pay-as-you-go experiences in Copilot Chat.",
         "status": "In development",
-        "description": "Facilitator is coming to Microsoft Teams meetings in GCC. The Facilitator agent can help capture notes in real time, answers questions about the meeting, and help keep the agenda and discussion on track. A Microsoft 365 Copilot license is required to use Facilitator.",
-        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=577401"
+        "description": "A new report to help IT admins manage costs for billed messages that are Pay-as-you-go enabled for Copilot Chat. Reporting includes drill down of billed messages per user, per billing policy, per agent-level and agent-user level pair. #copilotcontrolsystem",
+        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=490738"
       },
       "reads": [
         {
-          "title": "Turn GitHub notifications into code with GitHub Copilot in Microsoft Teams",
-          "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-github-notifications-into-code-with-github-copilot-in/ba-p/4566408"
+          "title": "What’s New in Microsoft Copilot | October 2026",
+          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/what-s-new-in-microsoft-copilot-october-2026/ba-p/4568528"
         },
         {
-          "title": "From Pilots to Programs: A Structured Approach to Scaling AI and Agents for Real Business Value",
-          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/from-pilots-to-programs-a-structured-approach-to-scaling-ai-and/ba-p/4566921"
+          "title": "Built by makers: Five years of Power Platform Community Conference",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/"
         }
       ],
-      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (October 22, 2026)\n\nPROMPT OF THE WEEK — Role-based onboarding\n\"Create a 30-day onboarding checklist for a new [role] on my team, including who they should meet, what systems they need, and three quick wins for their first two weeks.\"\n\nCOPILOT IN COPILOT CHAT\nUse the work grounding to ask cross-app questions: 'What are the latest updates on [project] from my emails, chats, and files?' Then turn the answer into a Copilot Page to collaborate on it.\n\nFRONTIER SPOTLIGHT — Agentic Copilot in Outlook\nCopilot can carry out multi-step inbox and calendar tasks over time — triaging email, organizing messages, and resolving meeting conflicts.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Microsoft Teams: Facilitator in GCC (In development)\nFacilitator is coming to Microsoft Teams meetings in GCC. The Facilitator agent can help capture notes in real time, answers questions about the meeting, and help keep the agenda and discussion on track. A Microsoft 365 Copilot license is required to use Facilitator.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=577401\n\nWORTH A READ\n- Turn GitHub notifications into code with GitHub Copilot in Microsoft Teams — https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-github-notifications-into-code-with-github-copilot-in/ba-p/4566408\n- From Pilots to Programs: A Structured Approach to Scaling AI and Agents for Real Business Value — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/from-pilots-to-programs-a-structured-approach-to-scaling-ai-and/ba-p/4566921\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
+      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (October 22, 2026)\n\nPROMPT OF THE WEEK — Role-based onboarding\n\"Create a 30-day onboarding checklist for a new [role] on my team, including who they should meet, what systems they need, and three quick wins for their first two weeks.\"\n\nCOPILOT IN COPILOT CHAT\nUse the work grounding to ask cross-app questions: 'What are the latest updates on [project] from my emails, chats, and files?' Then turn the answer into a Copilot Page to collaborate on it.\n\nFRONTIER SPOTLIGHT — Agentic Copilot in Outlook\nCopilot can carry out multi-step inbox and calendar tasks over time — triaging email, organizing messages, and resolving meeting conflicts.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Microsoft 365 Admin Center: Usage reports - Message consumption for Pay-as-you-go experiences in Copilot Chat. (In development)\nA new report to help IT admins manage costs for billed messages that are Pay-as-you-go enabled for Copilot Chat. Reporting includes drill down of billed messages per user, per billing policy, per agent-level and agent-user level pair. #copilotcontrolsystem\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=490738\n\nWORTH A READ\n- What’s New in Microsoft Copilot | October 2026 — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/what-s-new-in-microsoft-copilot-october-2026/ba-p/4568528\n- Built by makers: Five years of Power Platform Community Conference — https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
     },
     {
       "id": "2026-W42",
@@ -93,22 +129,22 @@
         "link": "https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features"
       },
       "roadmap": {
-        "title": "Dynamics 365 Business Central: Payables Agent - Agent can process vendor credit notes",
+        "title": "Microsoft Edge: Ask Copilot about an image",
         "status": "In development",
-        "description": "Payables Agent can recognize a vendor credit note and produce a purchase credit memo and applies to the original invoice, using the same draft and task experience as invoices. Note: It does not have Return Order matching functionality.",
-        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=577878"
+        "description": "Ask Copilot about an image in Edge enables users to instantly analyze images from the web by sending them directly to Copilot from the Edge context menu, making it easy to ask questions, gain insights, and understand visual content without leaving their browsing experience. Admins can control availability to this feature using the EdgeEntraCopilotPageContext and Microsoft365CopilotChatIconEnabled policies.",
+        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=566864"
       },
       "reads": [
         {
-          "title": "Turn GitHub notifications into code with GitHub Copilot in Microsoft Teams",
-          "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-github-notifications-into-code-with-github-copilot-in/ba-p/4566408"
+          "title": "What’s New in Microsoft Copilot | October 2026",
+          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/what-s-new-in-microsoft-copilot-october-2026/ba-p/4568528"
         },
         {
-          "title": "From Pilots to Programs: A Structured Approach to Scaling AI and Agents for Real Business Value",
-          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/from-pilots-to-programs-a-structured-approach-to-scaling-ai-and/ba-p/4566921"
+          "title": "Built by makers: Five years of Power Platform Community Conference",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/"
         }
       ],
-      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (October 15, 2026)\n\nPROMPT OF THE WEEK — Stress-test my thinking\n\"Act as a skeptical reviewer. Here is my plan for [topic]. Identify the three weakest assumptions, what could go wrong, and what evidence would change your mind.\"\n\nCOPILOT IN TEAMS\nDuring or after a meeting, ask Copilot to 'recap the key points', 'list action items and owners', or 'what was decided about [topic]?'. Catch up on long chats with 'summarize what I missed'.\n\nFRONTIER SPOTLIGHT — Microsoft Scout\nAn AI desktop app that stays connected to your priorities, monitors what matters, and moves work forward across the Microsoft 365 apps you use every day.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Dynamics 365 Business Central: Payables Agent - Agent can process vendor credit notes (In development)\nPayables Agent can recognize a vendor credit note and produce a purchase credit memo and applies to the original invoice, using the same draft and task experience as invoices. Note: It does not have Return Order matching functionality.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=577878\n\nWORTH A READ\n- Turn GitHub notifications into code with GitHub Copilot in Microsoft Teams — https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-github-notifications-into-code-with-github-copilot-in/ba-p/4566408\n- From Pilots to Programs: A Structured Approach to Scaling AI and Agents for Real Business Value — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/from-pilots-to-programs-a-structured-approach-to-scaling-ai-and/ba-p/4566921\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
+      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (October 15, 2026)\n\nPROMPT OF THE WEEK — Stress-test my thinking\n\"Act as a skeptical reviewer. Here is my plan for [topic]. Identify the three weakest assumptions, what could go wrong, and what evidence would change your mind.\"\n\nCOPILOT IN TEAMS\nDuring or after a meeting, ask Copilot to 'recap the key points', 'list action items and owners', or 'what was decided about [topic]?'. Catch up on long chats with 'summarize what I missed'.\n\nFRONTIER SPOTLIGHT — Microsoft Scout\nAn AI desktop app that stays connected to your priorities, monitors what matters, and moves work forward across the Microsoft 365 apps you use every day.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Microsoft Edge: Ask Copilot about an image (In development)\nAsk Copilot about an image in Edge enables users to instantly analyze images from the web by sending them directly to Copilot from the Edge context menu, making it easy to ask questions, gain insights, and understand visual content without leaving their browsing experience. Admins can control availability to this feature using the EdgeEntraCopilotPageContext and Microsoft365CopilotChatIconEnabled policies.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=566864\n\nWORTH A READ\n- What’s New in Microsoft Copilot | October 2026 — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/what-s-new-in-microsoft-copilot-october-2026/ba-p/4568528\n- Built by makers: Five years of Power Platform Community Conference — https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
     },
     {
       "id": "2026-W41",
@@ -829,42 +865,6 @@
         }
       ],
       "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (May 28, 2026)\n\nPROMPT OF THE WEEK — Turn a meeting into an action plan\n\"Based on the transcript and chat from my last meeting with [team], list every decision made, every open question, and a table of action items with owners and due dates. Then draft a short follow-up email I can send to attendees.\"\n\nCOPILOT IN WORD\nAsk Copilot to 'draft a [document type] from these bullet points', then 'add a section on [topic]' and 'rewrite the intro to be more concise'. Reference an existing file with the / command to ground it in your own content.\n\nFRONTIER SPOTLIGHT — Copilot Cowork\nDescribe the outcome you want and Cowork plans the steps and takes action across your files and conversations — completing long-running, multi-step work. Now supports plugins and mobile.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Capture voice notes in the Microsoft 365 Copilot mobile app (In development)\nWith a Microsoft 365 Copilot license, transform offline discussions into structured, actionable, and searchable content with voice notes in Copilot.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=498640\n\nWORTH A READ\n- What’s New in Notebooks | June 2026 — https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/what-s-new-in-notebooks-june-2026/ba-p/4525625\n- Available today: Anthropic Claude Fable 5 in Microsoft 365 Copilot — https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/available-today-anthropic-claude-fable-5-in-microsoft-365/ba-p/4526832\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
-    },
-    {
-      "id": "2026-W21",
-      "year": 2026,
-      "week": 21,
-      "dateLabel": "May 21, 2026",
-      "prompt": {
-        "title": "Rewrite for clarity",
-        "text": "Rewrite this so a non-expert can understand it. Remove jargon, shorten sentences, and lead with the most important point. Keep the meaning exact."
-      },
-      "tip": {
-        "app": "OneNote",
-        "tip": "Ask Copilot to 'summarize my notes from this section', 'turn these notes into a to-do list', or 'draft a plan based on this brainstorm' to convert messy notes into structured next steps."
-      },
-      "capability": {
-        "name": "Finance Agent",
-        "text": "Gives finance teams and stakeholders a centralized, role-aware view of financial performance with up-to-date, permission-aware insights.",
-        "link": "https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features"
-      },
-      "roadmap": {
-        "title": "Intelligent Summaries in Copilot Dashboard",
-        "status": "In development",
-        "description": "Use intelligent summaries in Copilot Dashboard to quickly surface what’s working and where targeted attention can accelerate Copilot adoption. Intelligent summaries highlight key adoption trends to focus on areas of success. Suggested prompts enable deeper exploration of underlying trends and drivers.",
-        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=557681"
-      },
-      "reads": [
-        {
-          "title": "What’s New in Notebooks | June 2026",
-          "link": "https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/what-s-new-in-notebooks-june-2026/ba-p/4525625"
-        },
-        {
-          "title": "Available today: Anthropic Claude Fable 5 in Microsoft 365 Copilot",
-          "link": "https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/available-today-anthropic-claude-fable-5-in-microsoft-365/ba-p/4526832"
-        }
-      ],
-      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (May 21, 2026)\n\nPROMPT OF THE WEEK — Rewrite for clarity\n\"Rewrite this so a non-expert can understand it. Remove jargon, shorten sentences, and lead with the most important point. Keep the meaning exact.\"\n\nCOPILOT IN ONENOTE\nAsk Copilot to 'summarize my notes from this section', 'turn these notes into a to-do list', or 'draft a plan based on this brainstorm' to convert messy notes into structured next steps.\n\nFRONTIER SPOTLIGHT — Finance Agent\nGives finance teams and stakeholders a centralized, role-aware view of financial performance with up-to-date, permission-aware insights.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Intelligent Summaries in Copilot Dashboard (In development)\nUse intelligent summaries in Copilot Dashboard to quickly surface what’s working and where targeted attention can accelerate Copilot adoption. Intelligent summaries highlight key adoption trends to focus on areas of success. Suggested prompts enable deeper exploration of underlying trends and drivers.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=557681\n\nWORTH A READ\n- What’s New in Notebooks | June 2026 — https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/what-s-new-in-notebooks-june-2026/ba-p/4525625\n- Available today: Anthropic Claude Fable 5 in Microsoft 365 Copilot — https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/available-today-anthropic-claude-fable-5-in-microsoft-365/ba-p/4526832\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
     }
   ]
 }
