@@ -1,75 +1,101 @@
 {
-  "generatedAt": "2026-11-15T23:47:21.822Z",
+  "generatedAt": "2026-11-17T02:48:03.164Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
       "url": "https://www.microsoft.com/en-us/microsoft-365/blog/feed/",
       "itemCount": 9,
-      "checkedAt": "2026-11-15T23:47:21.822Z"
+      "checkedAt": "2026-11-17T02:48:03.164Z"
     },
     {
       "source": "Microsoft Copilot Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-copilot-blog",
       "itemCount": 20,
-      "checkedAt": "2026-11-15T23:47:21.822Z"
+      "checkedAt": "2026-11-17T02:48:03.164Z"
     },
     {
       "source": "Copilot Studio Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=copilot-studio-blog",
       "itemCount": 18,
-      "checkedAt": "2026-11-15T23:47:21.822Z"
+      "checkedAt": "2026-11-17T02:48:03.164Z"
     },
     {
       "source": "Microsoft Power Platform Blog (Copilot Studio)",
       "url": "https://www.microsoft.com/en-us/power-platform/blog/product/copilot-studio/feed/",
-      "itemCount": 10,
-      "checkedAt": "2026-11-15T23:47:21.822Z"
+      "itemCount": 0,
+      "checkedAt": "2026-11-17T02:48:03.164Z"
     },
     {
       "source": "Microsoft AI at Work Blog",
       "url": "https://www.microsoft.com/en-us/copilot/blog/feed/",
       "itemCount": 9,
-      "checkedAt": "2026-11-15T23:47:21.822Z"
+      "checkedAt": "2026-11-17T02:48:03.164Z"
     },
     {
       "source": "Microsoft Copilot Studio Blog",
       "url": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/feed/",
       "itemCount": 9,
-      "checkedAt": "2026-11-15T23:47:21.822Z"
+      "checkedAt": "2026-11-17T02:48:03.164Z"
     },
     {
       "source": "Microsoft SharePoint Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=SPBlog",
       "itemCount": 13,
-      "checkedAt": "2026-11-15T23:47:21.822Z"
+      "checkedAt": "2026-11-17T02:48:03.164Z"
     },
     {
       "source": "Excel Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=ExcelBlog",
       "itemCount": 15,
-      "checkedAt": "2026-11-15T23:47:21.822Z"
+      "checkedAt": "2026-11-17T02:48:03.164Z"
     },
     {
       "source": "Microsoft 365 Insider Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365InsiderBlog",
       "itemCount": 6,
-      "checkedAt": "2026-11-15T23:47:21.822Z"
+      "checkedAt": "2026-11-17T02:48:03.164Z"
     },
     {
       "source": "Microsoft Teams Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=MicrosoftTeamsBlog",
       "itemCount": 7,
-      "checkedAt": "2026-11-15T23:47:21.822Z"
+      "checkedAt": "2026-11-17T02:48:03.164Z"
     },
     {
       "source": "Microsoft OneDrive Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=onedriveblog",
       "itemCount": 7,
-      "checkedAt": "2026-11-15T23:47:21.822Z"
+      "checkedAt": "2026-11-17T02:48:03.164Z"
     }
   ],
   "count": 100,
   "items": [
+    {
+      "title": "Copilot that understands your organization: Introducing people and org context in Work IQ",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/copilot-that-understands-your-organization-introducing-people/ba-p/4573356",
+      "description": "Every organization runs on its people—who they are, how teams are structured, what skills they bring, and how work flows between them. Yet when people ask AI about their organization, the answers can fall short when relying on generic knowl",
+      "categories": [],
+      "source": "Microsoft Copilot Blog (Tech Community)",
+      "date": "2026-11-16T21:21:50.000Z"
+    },
+    {
+      "title": "FinanceBench: The loop that continually improves Copilot in Excel for Finance work",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/financebench-the-loop-that-continually-improves-copilot-in-excel/ba-p/4573279",
+      "description": "Welcome to “Raising the Bar,” a new series exploring how rigorous evaluation helps us continuously improve Microsoft Copilot. We’re kicking off with a deep dive into FinanceBench and the loop behind it: learning from real finance work, buil",
+      "categories": [],
+      "source": "Microsoft Copilot Blog (Tech Community)",
+      "date": "2026-11-16T17:29:58.000Z"
+    },
+    {
+      "title": "What AI at work really costs",
+      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/11/16/what-ai-at-work-really-costs/",
+      "description": "What does AI at work really cost? New research compares the total cost of leading enterprise AI options and explores the factors that can shape the cost of everyday and advanced AI work. The post What AI at work really costs appeared first ",
+      "categories": [
+        "Work IQ"
+      ],
+      "source": "Microsoft 365 Blog",
+      "date": "2026-11-16T12:00:00.000Z"
+    },
     {
       "title": "Plugins at Microsoft Ignite 2026",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/ba-p/4569951",
@@ -286,9 +312,9 @@
     {
       "title": "Microsoft named a Leader in two evaluations of next-generation app development platforms",
       "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/22/microsoft-named-a-leader-in-two-evaluations-of-next-generation-app-development-platforms/",
-      "description": "Discover how Microsoft Power Platform and Microsoft Copilot Studio are shaping the next generation of business software with AI-powered development, agents, apps, workflows, and enterprise governance. Learn why Microsoft was recognized as a",
+      "description": "In this evolving market, we’re proud that Microsoft has been named a Leader in two analyst evaluations, each with its own market definition and assessment criteria. The post Microsoft named a Leader in two evaluations of next-generation app",
       "categories": [],
-      "source": "Microsoft Power Platform Blog (Copilot Studio)",
+      "source": "Microsoft Copilot Studio Blog",
       "date": "2026-10-22T12:00:00.000Z"
     },
     {
@@ -586,13 +612,10 @@
     },
     {
       "title": "Build apps in Copilot Cowork and Copilot Studio",
-      "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/",
-      "description": "Create full-stack business apps through conversation, grounded in your data with app building in Copilot Cowork and Copilot Studio. The post Build apps in Copilot Cowork and Copilot Studio appeared first on Microsoft Copilot Blog .",
-      "categories": [
-        "AI",
-        "Copilot Cowork"
-      ],
-      "source": "Microsoft 365 Blog",
+      "link": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/",
+      "description": "Introducing app building in Copilot Cowork and Copilot Studio. Create full-stack business apps through conversation, grounded in your data. The post Build apps in Copilot Cowork and Copilot Studio appeared first on Microsoft Copilot Blog .",
+      "categories": [],
+      "source": "Microsoft Copilot Studio Blog",
       "date": "2026-09-10T15:00:00.000Z"
     },
     {
@@ -868,33 +891,6 @@
       ],
       "source": "Microsoft 365 Blog",
       "date": "2026-06-16T12:00:00.000Z"
-    },
-    {
-      "title": "Introducing Microsoft Scout: Your always-on personal agent",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/",
-      "description": "Microsoft Scout is integrated across the Microsoft 365 apps you use every day, keeping it grounded in your flow of work. The post Introducing Microsoft Scout: Your always-on personal agent appeared first on AI at Work Blog .",
-      "categories": [
-        "Agents",
-        "AI"
-      ],
-      "source": "Microsoft 365 Blog",
-      "date": "2026-06-02T12:00:00.000Z"
-    },
-    {
-      "title": "Introducing federated Copilot connectors for LSEG and Moody's in Excel",
-      "link": "https://techcommunity.microsoft.com/t5/excel-blog/introducing-federated-copilot-connectors-for-lseg-and-moody-s-in/ba-p/4523360",
-      "description": "Earlier this month, we announced Microsoft 365 Copilot federated connectors were coming to Copilot in Excel. Built on the emerging industry standard Model Context Protocol (MCP), federated connectors pull data into Microsoft 365 Copilot liv",
-      "categories": [],
-      "source": "Excel Blog (Tech Community)",
-      "date": "2026-05-28T15:53:53.000Z"
-    },
-    {
-      "title": "What's New in Excel (May 2026)",
-      "link": "https://techcommunity.microsoft.com/t5/excel-blog/what-s-new-in-excel-may-2026/ba-p/4502700",
-      "description": "Welcome to the May 2026 update. This month brings new Copilot entry points, smart suggestions, and a keyboard-first design to help you work more efficiently. We're also introducing Show Changes, a new experience that offers greater transpar",
-      "categories": [],
-      "source": "Excel Blog (Tech Community)",
-      "date": "2026-05-26T16:00:00.000Z"
     }
   ]
 }
