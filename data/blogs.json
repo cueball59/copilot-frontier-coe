@@ -1,75 +1,83 @@
 {
-  "generatedAt": "2026-11-20T01:40:19.225Z",
+  "generatedAt": "2026-11-21T01:07:00.784Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
       "url": "https://www.microsoft.com/en-us/microsoft-365/blog/feed/",
       "itemCount": 9,
-      "checkedAt": "2026-11-20T01:40:19.225Z"
+      "checkedAt": "2026-11-21T01:07:00.784Z"
     },
     {
       "source": "Microsoft Copilot Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-copilot-blog",
       "itemCount": 20,
-      "checkedAt": "2026-11-20T01:40:19.225Z"
+      "checkedAt": "2026-11-21T01:07:00.784Z"
     },
     {
       "source": "Copilot Studio Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=copilot-studio-blog",
       "itemCount": 18,
-      "checkedAt": "2026-11-20T01:40:19.225Z"
+      "checkedAt": "2026-11-21T01:07:00.784Z"
     },
     {
       "source": "Microsoft Power Platform Blog (Copilot Studio)",
       "url": "https://www.microsoft.com/en-us/power-platform/blog/product/copilot-studio/feed/",
       "itemCount": 10,
-      "checkedAt": "2026-11-20T01:40:19.225Z"
+      "checkedAt": "2026-11-21T01:07:00.784Z"
     },
     {
       "source": "Microsoft AI at Work Blog",
       "url": "https://www.microsoft.com/en-us/copilot/blog/feed/",
       "itemCount": 9,
-      "checkedAt": "2026-11-20T01:40:19.225Z"
+      "checkedAt": "2026-11-21T01:07:00.784Z"
     },
     {
       "source": "Microsoft Copilot Studio Blog",
       "url": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/feed/",
       "itemCount": 9,
-      "checkedAt": "2026-11-20T01:40:19.225Z"
+      "checkedAt": "2026-11-21T01:07:00.784Z"
     },
     {
       "source": "Microsoft SharePoint Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=SPBlog",
       "itemCount": 14,
-      "checkedAt": "2026-11-20T01:40:19.225Z"
+      "checkedAt": "2026-11-21T01:07:00.784Z"
     },
     {
       "source": "Excel Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=ExcelBlog",
       "itemCount": 15,
-      "checkedAt": "2026-11-20T01:40:19.225Z"
+      "checkedAt": "2026-11-21T01:07:00.784Z"
     },
     {
       "source": "Microsoft 365 Insider Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365InsiderBlog",
       "itemCount": 6,
-      "checkedAt": "2026-11-20T01:40:19.225Z"
+      "checkedAt": "2026-11-21T01:07:00.784Z"
     },
     {
       "source": "Microsoft Teams Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=MicrosoftTeamsBlog",
       "itemCount": 7,
-      "checkedAt": "2026-11-20T01:40:19.225Z"
+      "checkedAt": "2026-11-21T01:07:00.784Z"
     },
     {
       "source": "Microsoft OneDrive Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=onedriveblog",
       "itemCount": 7,
-      "checkedAt": "2026-11-20T01:40:19.225Z"
+      "checkedAt": "2026-11-21T01:07:00.784Z"
     }
   ],
   "count": 100,
   "items": [
+    {
+      "title": "Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-6-2-sol-and-gpt-6-2-astra-in/ba-p/4574229",
+      "description": "OpenAI's GPT-6.2 Sol and GPT-6.2 Astra are now joining the frontier models available in Microsoft Copilot, giving customers more choice as they delegate more complex tasks to AI. With both models in Copilot, you can match the model to the w",
+      "categories": [],
+      "source": "Microsoft Copilot Blog (Tech Community)",
+      "date": "2026-11-20T20:07:04.000Z"
+    },
     {
       "title": "The End of Starting Over: How Work IQ helps Copilot understand you and your work",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/the-end-of-starting-over-how-work-iq-helps-copilot-understand/ba-p/4571169",
@@ -878,14 +886,6 @@
       "categories": [],
       "source": "Microsoft SharePoint Blog (Tech Community)",
       "date": "2026-07-21T15:56:41.000Z"
-    },
-    {
-      "title": "What’s New in Copilot in SharePoint: July 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-july-2026/ba-p/4535420",
-      "description": "Copilot in SharePoint helps you do more with your content — ask questions, run workflows, and create sites, pages, interactive reports, and Office files using natural language. June was a big month: starting June 16 Copilot in SharePoint be",
-      "categories": [],
-      "source": "Microsoft SharePoint Blog (Tech Community)",
-      "date": "2026-07-16T16:05:23.000Z"
     }
   ]
 }
