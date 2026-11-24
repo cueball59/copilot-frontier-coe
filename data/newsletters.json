@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-11-16T22:26:30.970Z",
+  "generatedAt": "2026-11-24T00:14:40.982Z",
   "count": 24,
   "editions": [
+    {
+      "id": "2026-W48",
+      "year": 2026,
+      "week": 48,
+      "dateLabel": "November 26, 2026",
+      "prompt": {
+        "title": "Compare and recommend",
+        "text": "Compare these [proposals/vendors/options] across cost, risk, time-to-value, and effort in a table. Recommend one and explain the trade-offs in two sentences."
+      },
+      "tip": {
+        "app": "PowerPoint",
+        "tip": "Turn a Word doc into a deck: 'create a presentation from this document'. Then refine with 'add a slide summarizing the budget' or 'make this slide more visual'. Use 'summarize this presentation' to brief yourself fast."
+      },
+      "capability": {
+        "name": "Microsoft Scout",
+        "text": "An AI desktop app that stays connected to your priorities, monitors what matters, and moves work forward across the Microsoft 365 apps you use every day.",
+        "link": "https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features"
+      },
+      "roadmap": {
+        "title": "Outlook: Copilot Chat Sheet UX Update for Mobile",
+        "status": "In development",
+        "description": "Copilot Chat in Outlook on iOS and Android is getting updated! You'll notice smoother animations, improved strings, and some small changes to the header, such as the new/temporary chat button being moved behind the ... button.",
+        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=579897"
+      },
+      "reads": [
+        {
+          "title": "Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot",
+          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-6-2-sol-and-gpt-6-2-astra-in/ba-p/4574229"
+        },
+        {
+          "title": "The End of Starting Over: How Work IQ helps Copilot understand you and your work",
+          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/the-end-of-starting-over-how-work-iq-helps-copilot-understand/ba-p/4571169"
+        }
+      ],
+      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (November 26, 2026)\n\nPROMPT OF THE WEEK — Compare and recommend\n\"Compare these [proposals/vendors/options] across cost, risk, time-to-value, and effort in a table. Recommend one and explain the trade-offs in two sentences.\"\n\nCOPILOT IN POWERPOINT\nTurn a Word doc into a deck: 'create a presentation from this document'. Then refine with 'add a slide summarizing the budget' or 'make this slide more visual'. Use 'summarize this presentation' to brief yourself fast.\n\nFRONTIER SPOTLIGHT — Microsoft Scout\nAn AI desktop app that stays connected to your priorities, monitors what matters, and moves work forward across the Microsoft 365 apps you use every day.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Outlook: Copilot Chat Sheet UX Update for Mobile (In development)\nCopilot Chat in Outlook on iOS and Android is getting updated! You'll notice smoother animations, improved strings, and some small changes to the header, such as the new/temporary chat button being moved behind the ... button.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=579897\n\nWORTH A READ\n- Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-6-2-sol-and-gpt-6-2-astra-in/ba-p/4574229\n- The End of Starting Over: How Work IQ helps Copilot understand you and your work — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/the-end-of-starting-over-how-work-iq-helps-copilot-understand/ba-p/4571169\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
+    },
     {
       "id": "2026-W47",
       "year": 2026,
@@ -21,22 +57,22 @@
         "link": "https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features"
       },
       "roadmap": {
-        "title": "Microsoft Edge: Commercial Journeys - AI-powered task completion for Microsoft 365 Copilot users",
+        "title": "Microsoft Copilot (Microsoft M365): Delegated prompt publishing for organization prompts",
         "status": "In development",
-        "description": "Commercial Journeys helps information workers stay on top of their most important work when browsing in Microsoft Edge. Powered by AI, it proactively surfaces unfinished, new, and recurring tasks on the Copilot new tab page- with context-rich cards that explain why each task matters now. One click opens a guided execution flow that delivers ready-to-use outputs (emails, documents, presentations, and more), so users can complete their unfinished work faster with higher quality. This feature will be available to users with a Microsoft 365 Copilot Premium license in Edge.",
-        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=561040"
+        "description": "This release follows the availability of organization prompts, providing admins the ability to upload custom prompts for their organization in the Copilot app home screen. Now, admins can delegate organization prompt publishing to users, AAD security groups, and distribution groups. These delegated users and groups will be able to create, edit and delete organization prompts at the tenant level through the Prompt Lab, without having to access the Microsoft 365 Admin Center. Admins can continue to monitor and provide oversight through the current experience in the Microsoft 365 Admin Center.",
+        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=569425"
       },
       "reads": [
         {
-          "title": "Plugins at Microsoft Ignite 2026",
-          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/ba-p/4569951"
+          "title": "Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot",
+          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-6-2-sol-and-gpt-6-2-astra-in/ba-p/4574229"
         },
         {
-          "title": "Where do I govern my Copilot Studio agents?",
-          "link": "https://techcommunity.microsoft.com/t5/copilot-studio-blog/where-do-i-govern-my-copilot-studio-agents/ba-p/4572592"
+          "title": "The End of Starting Over: How Work IQ helps Copilot understand you and your work",
+          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/the-end-of-starting-over-how-work-iq-helps-copilot-understand/ba-p/4571169"
         }
       ],
-      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (November 19, 2026)\n\nPROMPT OF THE WEEK — Executive-ready summary\n\"Summarize this document for a busy executive in 5 bullet points, then add a one-line 'so what' that explains the business impact. Flag anything that needs a decision from me.\"\n\nCOPILOT IN EXCEL\nSelect your data and ask Copilot to 'highlight the top trends', 'add a column that calculates [metric]', or 'create a PivotTable summarizing sales by region'. It explains the formulas it writes so you can learn as you go.\n\nFRONTIER SPOTLIGHT — Copilot Notebooks\nPull Teams meetings, Outlook emails, and web content in as sources, then generate richer outputs like Excel worksheets and infographics directly from your notebook.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Microsoft Edge: Commercial Journeys - AI-powered task completion for Microsoft 365 Copilot users (In development)\nCommercial Journeys helps information workers stay on top of their most important work when browsing in Microsoft Edge. Powered by AI, it proactively surfaces unfinished, new, and recurring tasks on the Copilot new tab page- with context-rich cards that explain why each task matters now. One click opens a guided execution flow that delivers ready-to-use outputs (emails, documents, presentations, and more), so users can complete their unfinished work faster with higher quality. This feature will be available to users with a Microsoft 365 Copilot Premium license in Edge.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=561040\n\nWORTH A READ\n- Plugins at Microsoft Ignite 2026 — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/ba-p/4569951\n- Where do I govern my Copilot Studio agents? — https://techcommunity.microsoft.com/t5/copilot-studio-blog/where-do-i-govern-my-copilot-studio-agents/ba-p/4572592\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
+      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (November 19, 2026)\n\nPROMPT OF THE WEEK — Executive-ready summary\n\"Summarize this document for a busy executive in 5 bullet points, then add a one-line 'so what' that explains the business impact. Flag anything that needs a decision from me.\"\n\nCOPILOT IN EXCEL\nSelect your data and ask Copilot to 'highlight the top trends', 'add a column that calculates [metric]', or 'create a PivotTable summarizing sales by region'. It explains the formulas it writes so you can learn as you go.\n\nFRONTIER SPOTLIGHT — Copilot Notebooks\nPull Teams meetings, Outlook emails, and web content in as sources, then generate richer outputs like Excel worksheets and infographics directly from your notebook.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Microsoft Copilot (Microsoft M365): Delegated prompt publishing for organization prompts (In development)\nThis release follows the availability of organization prompts, providing admins the ability to upload custom prompts for their organization in the Copilot app home screen. Now, admins can delegate organization prompt publishing to users, AAD security groups, and distribution groups. These delegated users and groups will be able to create, edit and delete organization prompts at the tenant level through the Prompt Lab, without having to access the Microsoft 365 Admin Center. Admins can continue to monitor and provide oversight through the current experience in the Microsoft 365 Admin Center.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=569425\n\nWORTH A READ\n- Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-6-2-sol-and-gpt-6-2-astra-in/ba-p/4574229\n- The End of Starting Over: How Work IQ helps Copilot understand you and your work — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/the-end-of-starting-over-how-work-iq-helps-copilot-understand/ba-p/4571169\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
     },
     {
       "id": "2026-W46",
@@ -57,22 +93,22 @@
         "link": "https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features"
       },
       "roadmap": {
-        "title": "Use Dataverse Business Skills in Sales Agent",
+        "title": "Discover and act on recommended lead and opportunity actions in Sales agent",
         "status": "In development",
-        "description": "Business Skills are natural language instructions authored and stored in Microsoft Dataverse that teach Sales Agent how work gets done within a specific organization. Business Skills enable organizations to create natural language instructions for Sales Agent to follow, which represent their business processes, policies, and business knowledge. Business skills can represent common sales workflows such as lead qualification, pipeline reviews, account planning, opportunity scoring, account brief creation, or organization-specific sales methodologies. Sales Agent uses the instructions in Business Skills to deliver responses that align with the customer's business processes and guidance. Sellers can interact with Sales agent using natural language and receive responses that are guided by their organization's Business Skills, following admin defined sales processes, applying company specific guidance, and surface insights that reflect how the organization operations. Administrators enable the required Dataverse capabilities, create and manage Business skills within Dataverse, and control Business skill access. Business skills can be authored using natural language instructions and associated with the organization's CRM environment.",
-        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=571394"
+        "description": "Sellers can discover and act on lead and opportunity recommendations that are already prioritized for them in Sales agent. A single prioritized list helps sellers see what needs attention without monitoring each agent separately or prioritizing the actions themselves. Sellers can review each recommended action, understand its details and business context, and take action from the same experience. The initial release focuses on lead outreach actions from Sales qualification agent and opportunity risk actions from Sales opportunity agent. Sellers can discover leads that need outreach and opportunities that need attention, review the recommended next step and its context, and act to move customer conversations and opportunities forward. Recommended actions will be turned on by default. Additional agents, including custom agents, are a future direction and are not part of this initial release commitment.",
+        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=579977"
       },
       "reads": [
         {
-          "title": "Plugins at Microsoft Ignite 2026",
-          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/ba-p/4569951"
+          "title": "Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot",
+          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-6-2-sol-and-gpt-6-2-astra-in/ba-p/4574229"
         },
         {
-          "title": "Where do I govern my Copilot Studio agents?",
-          "link": "https://techcommunity.microsoft.com/t5/copilot-studio-blog/where-do-i-govern-my-copilot-studio-agents/ba-p/4572592"
+          "title": "The End of Starting Over: How Work IQ helps Copilot understand you and your work",
+          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/the-end-of-starting-over-how-work-iq-helps-copilot-understand/ba-p/4571169"
         }
       ],
-      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (November 12, 2026)\n\nPROMPT OF THE WEEK — Turn a meeting into an action plan\n\"Based on the transcript and chat from my last meeting with [team], list every decision made, every open question, and a table of action items with owners and due dates. Then draft a short follow-up email I can send to attendees.\"\n\nCOPILOT IN WORD\nAsk Copilot to 'draft a [document type] from these bullet points', then 'add a section on [topic]' and 'rewrite the intro to be more concise'. Reference an existing file with the / command to ground it in your own content.\n\nFRONTIER SPOTLIGHT — Copilot Cowork\nDescribe the outcome you want and Cowork plans the steps and takes action across your files and conversations — completing long-running, multi-step work. Now supports plugins and mobile.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Use Dataverse Business Skills in Sales Agent (In development)\nBusiness Skills are natural language instructions authored and stored in Microsoft Dataverse that teach Sales Agent how work gets done within a specific organization. Business Skills enable organizations to create natural language instructions for Sales Agent to follow, which represent their business processes, policies, and business knowledge. Business skills can represent common sales workflows such as lead qualification, pipeline reviews, account planning, opportunity scoring, account brief creation, or organization-specific sales methodologies. Sales Agent uses the instructions in Business Skills to deliver responses that align with the customer's business processes and guidance. Sellers can interact with Sales agent using natural language and receive responses that are guided by their organization's Business Skills, following admin defined sales processes, applying company specific guidance, and surface insights that reflect how the organization operations. Administrators enable the required Dataverse capabilities, create and manage Business skills within Dataverse, and control Business skill access. Business skills can be authored using natural language instructions and associated with the organization's CRM environment.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=571394\n\nWORTH A READ\n- Plugins at Microsoft Ignite 2026 — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/ba-p/4569951\n- Where do I govern my Copilot Studio agents? — https://techcommunity.microsoft.com/t5/copilot-studio-blog/where-do-i-govern-my-copilot-studio-agents/ba-p/4572592\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
+      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (November 12, 2026)\n\nPROMPT OF THE WEEK — Turn a meeting into an action plan\n\"Based on the transcript and chat from my last meeting with [team], list every decision made, every open question, and a table of action items with owners and due dates. Then draft a short follow-up email I can send to attendees.\"\n\nCOPILOT IN WORD\nAsk Copilot to 'draft a [document type] from these bullet points', then 'add a section on [topic]' and 'rewrite the intro to be more concise'. Reference an existing file with the / command to ground it in your own content.\n\nFRONTIER SPOTLIGHT — Copilot Cowork\nDescribe the outcome you want and Cowork plans the steps and takes action across your files and conversations — completing long-running, multi-step work. Now supports plugins and mobile.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Discover and act on recommended lead and opportunity actions in Sales agent (In development)\nSellers can discover and act on lead and opportunity recommendations that are already prioritized for them in Sales agent. A single prioritized list helps sellers see what needs attention without monitoring each agent separately or prioritizing the actions themselves. Sellers can review each recommended action, understand its details and business context, and take action from the same experience. The initial release focuses on lead outreach actions from Sales qualification agent and opportunity risk actions from Sales opportunity agent. Sellers can discover leads that need outreach and opportunities that need attention, review the recommended next step and its context, and act to move customer conversations and opportunities forward. Recommended actions will be turned on by default. Additional agents, including custom agents, are a future direction and are not part of this initial release commitment.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=579977\n\nWORTH A READ\n- Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-6-2-sol-and-gpt-6-2-astra-in/ba-p/4574229\n- The End of Starting Over: How Work IQ helps Copilot understand you and your work — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/the-end-of-starting-over-how-work-iq-helps-copilot-understand/ba-p/4571169\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
     },
     {
       "id": "2026-W45",
@@ -93,22 +129,22 @@
         "link": "https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features"
       },
       "roadmap": {
-        "title": "Dynamics 365 Field Service: Automate optimizations with Scheduling Operations Agent",
+        "title": "Microsoft 365 Copilot Search Supports SharePoint Online Custom Properties Search",
         "status": "In development",
-        "description": "This release expands the optimization capabilities of the Scheduling Operations Agent to include the ability to create recurring optimizations on a schedule. The agent considers the availability of the resources, their current schedules, and unscheduled requirements. It suggests a schedule that honors configured constraints and optimizes it according to the selected goal. The agent automatically runs optimizations and applies the results on the configured schedule. New capabilities include: Configure optimization plans to run on a recurrence schedule. Add and weight additional objectives to optimization goals. These capabilities build on the existing public preview of the Scheduling Operations Agent and are automatically enabled for all organizations that have the agent enabled. Learn more at Scheduling Operations Agent overview .",
-        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=571675"
+        "description": "Discover and find people through Microsoft 365 Copilot Search based on your company's custom profile properties from SharePoint Online.",
+        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=508526"
       },
       "reads": [
         {
-          "title": "Plugins at Microsoft Ignite 2026",
-          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/ba-p/4569951"
+          "title": "Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot",
+          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-6-2-sol-and-gpt-6-2-astra-in/ba-p/4574229"
         },
         {
-          "title": "Where do I govern my Copilot Studio agents?",
-          "link": "https://techcommunity.microsoft.com/t5/copilot-studio-blog/where-do-i-govern-my-copilot-studio-agents/ba-p/4572592"
+          "title": "The End of Starting Over: How Work IQ helps Copilot understand you and your work",
+          "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/the-end-of-starting-over-how-work-iq-helps-copilot-understand/ba-p/4571169"
         }
       ],
-      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (November 5, 2026)\n\nPROMPT OF THE WEEK — Rewrite for clarity\n\"Rewrite this so a non-expert can understand it. Remove jargon, shorten sentences, and lead with the most important point. Keep the meaning exact.\"\n\nCOPILOT IN ONENOTE\nAsk Copilot to 'summarize my notes from this section', 'turn these notes into a to-do list', or 'draft a plan based on this brainstorm' to convert messy notes into structured next steps.\n\nFRONTIER SPOTLIGHT — Finance Agent\nGives finance teams and stakeholders a centralized, role-aware view of financial performance with up-to-date, permission-aware insights.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Dynamics 365 Field Service: Automate optimizations with Scheduling Operations Agent (In development)\nThis release expands the optimization capabilities of the Scheduling Operations Agent to include the ability to create recurring optimizations on a schedule. The agent considers the availability of the resources, their current schedules, and unscheduled requirements. It suggests a schedule that honors configured constraints and optimizes it according to the selected goal. The agent automatically runs optimizations and applies the results on the configured schedule. New capabilities include: Configure optimization plans to run on a recurrence schedule. Add and weight additional objectives to optimization goals. These capabilities build on the existing public preview of the Scheduling Operations Agent and are automatically enabled for all organizations that have the agent enabled. Learn more at Scheduling Operations Agent overview .\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=571675\n\nWORTH A READ\n- Plugins at Microsoft Ignite 2026 — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/ba-p/4569951\n- Where do I govern my Copilot Studio agents? — https://techcommunity.microsoft.com/t5/copilot-studio-blog/where-do-i-govern-my-copilot-studio-agents/ba-p/4572592\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
+      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (November 5, 2026)\n\nPROMPT OF THE WEEK — Rewrite for clarity\n\"Rewrite this so a non-expert can understand it. Remove jargon, shorten sentences, and lead with the most important point. Keep the meaning exact.\"\n\nCOPILOT IN ONENOTE\nAsk Copilot to 'summarize my notes from this section', 'turn these notes into a to-do list', or 'draft a plan based on this brainstorm' to convert messy notes into structured next steps.\n\nFRONTIER SPOTLIGHT — Finance Agent\nGives finance teams and stakeholders a centralized, role-aware view of financial performance with up-to-date, permission-aware insights.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Microsoft 365 Copilot Search Supports SharePoint Online Custom Properties Search (In development)\nDiscover and find people through Microsoft 365 Copilot Search based on your company's custom profile properties from SharePoint Online.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=508526\n\nWORTH A READ\n- Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-6-2-sol-and-gpt-6-2-astra-in/ba-p/4574229\n- The End of Starting Over: How Work IQ helps Copilot understand you and your work — https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/the-end-of-starting-over-how-work-iq-helps-copilot-understand/ba-p/4571169\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
     },
     {
       "id": "2026-W44",
@@ -829,42 +865,6 @@
         }
       ],
       "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (June 18, 2026)\n\nPROMPT OF THE WEEK — Prep me for a 1:1\n\"Using our recent emails, chats, and shared files, prepare me for my 1:1 with [name]. Summarize what we last agreed, what's outstanding, and suggest three thoughtful questions to ask.\"\n\nCOPILOT IN OUTLOOK\nTry 'summarize this email thread', 'draft a reply that politely declines', or 'turn this email into a meeting agenda'. Coaching tips can also score your draft for tone, clarity, and reader sentiment before you send.\n\nFRONTIER SPOTLIGHT — Agentic Copilot in Outlook\nCopilot can carry out multi-step inbox and calendar tasks over time — triaging email, organizing messages, and resolving meeting conflicts.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Microsoft 365 app: New Copilot Notebooks design in the Microsoft 365 Copilot App (iOS) (In development)\nCopilot Notebooks in the Microsoft 365 Copilot app (iOS) now lets users organize related chats, output creations, and references into a persistent AI workspace. Copilot uses the Notebook's accumulated context to ground responses, so work continues across sessions instead of starting over each time.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=566318\n\nWORTH A READ\n- Available today: Anthropic’s Claude Sonnet 5 in Microsoft 365 Copilot — https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/available-today-anthropic-s-claude-sonnet-5-in-microsoft-365/ba-p/4532188\n- Sales Agent is now generally available: Bringing customer and deal intelligence into the flow of work — https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/sales-agent-is-now-generally-available-bringing-customer-and/ba-p/4532629\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
-    },
-    {
-      "id": "2026-W24",
-      "year": 2026,
-      "week": 24,
-      "dateLabel": "June 11, 2026",
-      "prompt": {
-        "title": "Compare and recommend",
-        "text": "Compare these [proposals/vendors/options] across cost, risk, time-to-value, and effort in a table. Recommend one and explain the trade-offs in two sentences."
-      },
-      "tip": {
-        "app": "PowerPoint",
-        "tip": "Turn a Word doc into a deck: 'create a presentation from this document'. Then refine with 'add a slide summarizing the budget' or 'make this slide more visual'. Use 'summarize this presentation' to brief yourself fast."
-      },
-      "capability": {
-        "name": "Microsoft Scout",
-        "text": "An AI desktop app that stays connected to your priorities, monitors what matters, and moves work forward across the Microsoft 365 apps you use every day.",
-        "link": "https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features"
-      },
-      "roadmap": {
-        "title": "Work IQ APIs: Pay-As-You-Go usage",
-        "status": "In development",
-        "description": "Enables metered, pay-as-you-go access to Work IQ endpoints, allowing developers to invoke agents and capabilities without requiring pre-assigned licenses, with usage billed based on the agents and models invoked per request.",
-        "link": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=559017"
-      },
-      "reads": [
-        {
-          "title": "Copilot Cowork is now generally available",
-          "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/"
-        },
-        {
-          "title": "What’s New in Notebooks | June 2026",
-          "link": "https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/what-s-new-in-notebooks-june-2026/ba-p/4525625"
-        }
-      ],
-      "copyText": "MICROSOFT 365 COPILOT — CHAMPION WEEKLY (June 11, 2026)\n\nPROMPT OF THE WEEK — Compare and recommend\n\"Compare these [proposals/vendors/options] across cost, risk, time-to-value, and effort in a table. Recommend one and explain the trade-offs in two sentences.\"\n\nCOPILOT IN POWERPOINT\nTurn a Word doc into a deck: 'create a presentation from this document'. Then refine with 'add a slide summarizing the budget' or 'make this slide more visual'. Use 'summarize this presentation' to brief yourself fast.\n\nFRONTIER SPOTLIGHT — Microsoft Scout\nAn AI desktop app that stays connected to your priorities, monitors what matters, and moves work forward across the Microsoft 365 apps you use every day.\nLearn more: https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-features\n\nON THE ROADMAP — Work IQ APIs: Pay-As-You-Go usage (In development)\nEnables metered, pay-as-you-go access to Work IQ endpoints, allowing developers to invoke agents and capabilities without requiring pre-assigned licenses, with usage billed based on the agents and models invoked per request.\nDetails: https://www.microsoft.com/en-us/microsoft-365/roadmap?id=559017\n\nWORTH A READ\n- Copilot Cowork is now generally available — https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/\n- What’s New in Notebooks | June 2026 — https://techcommunity.microsoft.com/t5/microsoft-365-copilot-blog/what-s-new-in-notebooks-june-2026/ba-p/4525625\n\nQuestions? Reach your Copilot Champion. Built for guidance only; references public Microsoft sources."
     }
   ]
 }
