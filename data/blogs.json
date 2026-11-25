@@ -1,75 +1,91 @@
 {
-  "generatedAt": "2026-11-24T04:38:36.643Z",
+  "generatedAt": "2026-11-25T03:23:30.159Z",
   "sources": [
     {
       "source": "Microsoft 365 Blog",
       "url": "https://www.microsoft.com/en-us/microsoft-365/blog/feed/",
       "itemCount": 9,
-      "checkedAt": "2026-11-24T04:38:36.643Z"
+      "checkedAt": "2026-11-25T03:23:30.159Z"
     },
     {
       "source": "Microsoft Copilot Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-copilot-blog",
       "itemCount": 20,
-      "checkedAt": "2026-11-24T04:38:36.643Z"
+      "checkedAt": "2026-11-25T03:23:30.159Z"
     },
     {
       "source": "Copilot Studio Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=copilot-studio-blog",
-      "itemCount": 18,
-      "checkedAt": "2026-11-24T04:38:36.643Z"
+      "itemCount": 19,
+      "checkedAt": "2026-11-25T03:23:30.159Z"
     },
     {
       "source": "Microsoft Power Platform Blog (Copilot Studio)",
       "url": "https://www.microsoft.com/en-us/power-platform/blog/product/copilot-studio/feed/",
       "itemCount": 10,
-      "checkedAt": "2026-11-24T04:38:36.643Z"
+      "checkedAt": "2026-11-25T03:23:30.159Z"
     },
     {
       "source": "Microsoft AI at Work Blog",
       "url": "https://www.microsoft.com/en-us/copilot/blog/feed/",
       "itemCount": 9,
-      "checkedAt": "2026-11-24T04:38:36.643Z"
+      "checkedAt": "2026-11-25T03:23:30.159Z"
     },
     {
       "source": "Microsoft Copilot Studio Blog",
       "url": "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/feed/",
       "itemCount": 9,
-      "checkedAt": "2026-11-24T04:38:36.643Z"
+      "checkedAt": "2026-11-25T03:23:30.159Z"
     },
     {
       "source": "Microsoft SharePoint Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=SPBlog",
       "itemCount": 14,
-      "checkedAt": "2026-11-24T04:38:36.643Z"
+      "checkedAt": "2026-11-25T03:23:30.159Z"
     },
     {
       "source": "Excel Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=ExcelBlog",
       "itemCount": 15,
-      "checkedAt": "2026-11-24T04:38:36.643Z"
+      "checkedAt": "2026-11-25T03:23:30.159Z"
     },
     {
       "source": "Microsoft 365 Insider Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365InsiderBlog",
       "itemCount": 6,
-      "checkedAt": "2026-11-24T04:38:36.643Z"
+      "checkedAt": "2026-11-25T03:23:30.159Z"
     },
     {
       "source": "Microsoft Teams Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=MicrosoftTeamsBlog",
       "itemCount": 7,
-      "checkedAt": "2026-11-24T04:38:36.643Z"
+      "checkedAt": "2026-11-25T03:23:30.159Z"
     },
     {
       "source": "Microsoft OneDrive Blog (Tech Community)",
       "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=onedriveblog",
       "itemCount": 7,
-      "checkedAt": "2026-11-24T04:38:36.643Z"
+      "checkedAt": "2026-11-25T03:23:30.159Z"
     }
   ],
   "count": 100,
   "items": [
+    {
+      "title": "What's New in Excel (November 2026)",
+      "link": "https://techcommunity.microsoft.com/t5/excel-blog/what-s-new-in-excel-november-2026/ba-p/4573867",
+      "description": "Finance teams can hand reconciliations and journal entries to new accounting skills, analysts can group PivotTable data just by asking, and anyone who opens a read-only workbook can now ask Copilot about it. You also get more model choices.",
+      "categories": [],
+      "source": "Excel Blog (Tech Community)",
+      "date": "2026-11-25T00:31:51.000Z"
+    },
+    {
+      "title": "How to manage costs for Copilot Studio agents",
+      "link": "https://techcommunity.microsoft.com/t5/copilot-studio-blog/how-to-manage-costs-for-copilot-studio-agents/ba-p/4576413",
+      "description": "A practical guide to measuring agent consumption, forecasting demand, and managing usage-based costs across maker and admin experiences. The introduction of the Microsoft Copilot harness for Copilot Studio adds to a broader shift toward usa",
+      "categories": [],
+      "source": "Copilot Studio Blog (Tech Community)",
+      "date": "2026-11-24T20:51:02.000Z"
+    },
     {
       "title": "Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot",
       "link": "https://techcommunity.microsoft.com/t5/microsoft-copilot-blog/available-today-openai-s-gpt-6-2-sol-and-gpt-6-2-astra-in/ba-p/4574229",
@@ -870,22 +886,6 @@
       "categories": [],
       "source": "Microsoft Teams Blog (Tech Community)",
       "date": "2026-07-24T16:24:35.000Z"
-    },
-    {
-      "title": "Extending agentic Microsoft Dynamics 365 Sales with MCP",
-      "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/21/extending-agentic-microsoft-dynamics-365-sales-with-mcp/",
-      "description": "MCP extends Dynamics 365 Sales agents with external data, tools, and actions, helping connect sales processes across business systems. The post Extending agentic Microsoft Dynamics 365 Sales with MCP appeared first on Microsoft Copilot Blog",
-      "categories": [],
-      "source": "Microsoft Copilot Studio Blog",
-      "date": "2026-07-21T19:20:00.000Z"
-    },
-    {
-      "title": "Beyond Benchmarks: The Lifecycle of Measuring Agentic Quality in AI Content Management",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/beyond-benchmarks-the-lifecycle-of-measuring-agentic-quality-in/ba-p/4538319",
-      "description": "By Sujay Kumar Jauhar, Spriha Chandrayan, Natasha Gaitonde, Zhen Lei, Reed Pankhurst, Anush Sankaran, Amrit Shandilya, Ryen W. White Organizations put their most important content in OneDrive and SharePoint, trusting us to deliver AI experi",
-      "categories": [],
-      "source": "Microsoft SharePoint Blog (Tech Community)",
-      "date": "2026-07-21T15:56:41.000Z"
     }
   ]
 }
